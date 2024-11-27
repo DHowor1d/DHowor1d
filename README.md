@@ -26,7 +26,8 @@
       <br/>
       <span>React</span>
 <td align="center" width="105">
-  <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png?v=638670052930000000" width="60"/>
+  <img src="https://github.com/user-attachments/assets/2dfab162-7a94-4825-9059-5f566378a7ec" width="60"/>
+
   <br/>
   <span>Query</span>
 </td>
