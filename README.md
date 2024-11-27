@@ -25,14 +25,8 @@
       <img src="https://skillicons.dev/icons?i=react" width="60"/>
       <br/>
       <span>React</span>
-<style>
-  .rounded-img {
-    border-radius: 50%;
-  }
-</style>
-
 <td align="center" width="105">
-  <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png?v=638670052930000000" width="60" class="rounded-img"/>
+  <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png?v=638670052930000000" width="60"/>
   <br/>
   <span>Query</span>
 </td>
