@@ -1,4 +1,4 @@
-# 디호입니다 <img src="https://github.com/user-attachments/assets/444087b4-6468-4cb4-b971-44ea98f0d011" width="60"/>
+# 디호입니다 <img src="https://github.com/user-attachments/assets/444087b4-6468-4cb4-b971-44ea98f0d011" width="30"/>
 
 
 
