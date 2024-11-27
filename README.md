@@ -24,7 +24,7 @@
     <td align="center" width="105">
       <img src="https://skillicons.dev/icons?i=react" width="60"/>
       <br/>
-      <span>react query</span>
+      <span>React</span>
     </td>
   </tr>
 </table>
