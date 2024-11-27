@@ -21,11 +21,11 @@
   <tr>
     <th width="105">Frontend</th>
     </td>
-<!--     <td align="center" width="105">
-      <img src="https://img.shields.io/badge/reactquery-6DB33F?style=for-the-badge&logo=reactquery&logoColor=white" width="60"/>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=react" width="60"/>
       <br/>
       <span>react query</span>
-    </td> -->
+    </td>
   </tr>
 </table>
 <table>
