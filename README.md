@@ -26,6 +26,11 @@
       <br/>
       <span>React</span>
     </td>
+      <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
+      <br/>
+      <span>tailwind</span>
+    </td>
   </tr>
 </table>
 <table>
@@ -40,6 +45,17 @@
       <img src="https://skillicons.dev/icons?i=figma" width="60"/>
       <br/>
       <span>Figma</span>
+    </td>
+        <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+      <br/>
+      <span>VSCODE</span>
+    </td>
+        </td>
+        <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=idea" width="60"/>
+      <br/>
+      <span>IntelliJ</span>
     </td>
 
   </tr>
