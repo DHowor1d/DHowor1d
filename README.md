@@ -22,9 +22,9 @@
     <th width="105">Frontend</th>
     </td>
     <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=reactquery&logoColor=white" width="60"/>
+      <img src="https://img.shields.io/badge/reactquery-6DB33F?style=for-the-badge&logo=reactquery&logoColor=white" width="60"/>
       <br/>
-      <span>Zustand</span>
+      <span>react query</span>
     </td>
   </tr>
 </table>
