@@ -21,11 +21,11 @@
   <tr>
     <th width="105">Frontend</th>
     </td>
-<!--     <td align="center" width="105">
-      <img src="https://github.com/user-attachments/assets/21e891eb-311b-485c-9f42-9a91932afa47" width="60"/>
+    <td align="center" width="105">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=reactquery&logoColor=white" width="60"/>
       <br/>
       <span>Zustand</span>
-    </td> -->
+    </td>
   </tr>
 </table>
 <table>
