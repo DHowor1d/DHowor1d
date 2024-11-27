@@ -21,16 +21,11 @@
   <tr>
     <th width="105">Frontend</th>
     </td>
-    <td align="center" width="105">
+<!--     <td align="center" width="105">
       <img src="https://github.com/user-attachments/assets/21e891eb-311b-485c-9f42-9a91932afa47" width="60"/>
       <br/>
       <span>Zustand</span>
-    </td>
-    <td align="center" width="105">
-      <img src="https://github.com/storybookjs/brand/blob/main/icon/icon-storybook-default.png" height="60"/>
-      <br/>
-      <span>Storybook</span>
-    </td>
+    </td> -->
   </tr>
 </table>
 <table>
